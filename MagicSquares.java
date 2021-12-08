@@ -1,4 +1,3 @@
-
 /*
 * This program prints out the Magic Sqaures.
 *
